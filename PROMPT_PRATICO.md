@@ -9,8 +9,8 @@ Use os prompts abaixo como base para solicitar ao Claude/Copilot a adaptação d
 ```
 Você tem uma estrutura de soft-skill com agentes e comandos reutilizáveis em:
 
-/home/jabes/Jabes/projetos/meu-projeto/.claude/agents
-/home/jabes/Jabes/projetos/meu-projeto/.claude/commands
+/meu-projeto/.claude/agents
+/meu-projeto/.claude/commands
 
 Preciso adaptar essa estrutura para meu projeto [TIPO_PROJETO] em [TECNOLOGIA].
 
@@ -41,8 +41,8 @@ Resultado esperado: estrutura pronta em .claude/agents e .claude/commands
 ```
 Crie a estrutura dos agentes com base no exemplo em:
 
-/home/jabes/Jabes/projetos/meu-projeto/.claude/agents
-/home/jabes/Jabes/projetos/meu-projeto/.claude/commands
+/meu-projeto/.claude/agents
+/meu-projeto/.claude/commands
 
 Lembrando que esta é uma API em Python com FastAPI.
 
@@ -71,8 +71,8 @@ NÃO crie skills, apenas adapte instruções.
 ```
 Crie a estrutura dos agentes com base no exemplo em:
 
-/home/jabes/Jabes/projetos/meu-projeto/.claude/agents
-/home/jabes/Jabes/projetos/meu-projeto/.claude/commands
+/meu-projeto/.claude/agents
+/meu-projeto/.claude/commands
 
 Lembrando que este é um projeto Java com Spring Boot.
 
@@ -101,8 +101,8 @@ NÃO crie skills, apenas adapte instruções.
 ```
 Crie a estrutura dos agentes com base no exemplo em:
 
-/home/jabes/Jabes/projetos/meu-projeto/.claude/agents
-/home/jabes/Jabes/projetos/meu-projeto/.claude/commands
+/meu-projeto/.claude/agents
+/meu-projeto/.claude/commands
 
 Lembrando que este é um projeto C# com .NET Core.
 
@@ -132,8 +132,8 @@ NÃO crie skills, apenas adapte instruções.
 ```
 Crie a estrutura dos agentes com base no exemplo em:
 
-/home/jabes/Jabes/projetos/meu-projeto/.claude/agents
-/home/jabes/Jabes/projetos/meu-projeto/.claude/commands
+/meu-projeto/.claude/agents
+/meu-projeto/.claude/commands
 
 Lembrando que este é um projeto Angular.
 
