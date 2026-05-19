@@ -223,3 +223,10 @@ R: Sempre copie os arquivos `.cursor/rules` para o projeto e referencie-os nos a
 2. Use o prompt específico acima
 3. Valide a estrutura gerada
 4. Documente desvios ou customizações no seu projeto
+
+
+## Exemplo prompt:
+Crie a estrutura dos agentes com base no exemplo em anexo, lembrando que essa e uma api em pyhon com fastapi, em anexo o requirements do projeto e a estrutura da api.
+
+no AGENTS.md deixe claro que existem 2 projetos: frontend e backend. Inclua os comandos para instalar dependências, rodar o projeto, também as portas onde cada um deles roda. Além disso, crie
+um ponteiro para cada rule e skill existente, elas estão na pasta agents/rules e agents/skills
